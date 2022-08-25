@@ -1,0 +1,6 @@
+x = int(input ("ведитепервое  1 число"))
+y = int(input ("ведитепервое  1 число"))
+
+def sum(a,b):
+    return a + b
+print (sum(x,y))
