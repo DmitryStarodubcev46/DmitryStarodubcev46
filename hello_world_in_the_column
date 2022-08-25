@@ -1,0 +1,3 @@
+Hello = "Hello world"
+for Y in Hello:
+    print(Y)
